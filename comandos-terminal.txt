@@ -1,8 +1,11 @@
-init
-add
-add
+pwd
+ls
+mkdir Semana2
+cd Semana2
+add preguntas-semana2.txt
+add reflexion-semana2.txt
 commit
-remote add
+remote add  https://github.com/BrandonYeff/programadores-para-la-paz-Semana2.git
 push
 remote add
 push
@@ -10,4 +13,6 @@ ls
 dir
 status
 cd
-add
+add comandos-terminal.txt
+commit "agregando un nuevo archivo"
+push 
