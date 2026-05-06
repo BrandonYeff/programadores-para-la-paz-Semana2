@@ -1,0 +1,13 @@
+init
+add
+add
+commit
+remote add
+push
+remote add
+push
+ls
+dir
+status
+cd
+add
