@@ -16,3 +16,13 @@ cd
 add comandos-terminal.txt
 commit "agregando un nuevo archivo"
 push 
+status
+add comandos-terminal.txt
+commit "corrijo comandos-terminal.txt agregando paso completos"
+push
+add reflexion-semana2.txt
+commit "Actividad Semana2"
+push
+add comandos-terminal.txt
+commit "Actividad Semana2"
+push
